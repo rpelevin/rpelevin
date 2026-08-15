@@ -2,11 +2,11 @@
 
 Updated: August 15, 2026
 
-Roman's public technical work repeatedly encountered the same execution question across agent systems: when software can take a consequential action, who has authority to permit that exact action and what evidence remains afterward? The field record below shows the public reviews, acknowledgements, and implementation discussions that helped shape Neura's authority-and-evidence category.
+Roman's public technical work repeatedly encountered the same execution question across agent systems: when software can take a consequential action, who has authority to permit that exact action and what evidence remains afterward? The records below show the public reviews, acknowledgements, and implementation discussions that helped shape Neura's authority-and-evidence category.
 
 ## Selected public acknowledgements
 
-Each source opens on a public third-party, contributor, or project-owner message that visibly identifies Roman or unambiguously responds to his work.
+Each link opens on a public third-party, contributor, or project-owner message that visibly identifies Roman or directly responds to his work.
 
 ### AG2 — evidence-model architecture
 
@@ -55,29 +55,17 @@ The project owner preserved Roman's authority-before-side-effect and exact-argum
 
 - [Open owner acknowledgement](https://github.com/dgenio/mcp-agent-security-dojo/issues/43#issuecomment-5251916448)
 
-## What the field record revealed
+## What the public record revealed
 
 Public agent-system discussions repeatedly return to the same underlying control point: a consequential action needs a decision bound to the exact action, enforced before execution, and connected to evidence that makes the outcome explainable. That recurring pattern across runtime approvals, action binding, replay resistance, execution receipts, and terminal outcomes is the category insight behind Neura.
 
-The wider evidence ledger preserves public implementation discussions and field signals across additional agent ecosystems, including OpenAI Codex, Anthropic Claude Code and Cookbooks, CrewAI, Microsoft AutoGen, NVIDIA NeMo, Stripe AI, and OpenShell. It distinguishes direct acknowledgement from technical influence and field insight.
+## Explore the sources
 
-## Public work volume
-
-The public index will add dated activity metrics after their source snapshots and methodology are published together:
-
-- **Public GitHub contributions in the past 12 months**
-- **Public AI-agent discussions reviewed**
-- **Public agent projects mapped**
-
-Those figures describe public engineering and field-research activity. The acknowledgement index separately shows the sources that identify direct recognition, implementation influence, and category insight.
-
-## Explore the full evidence record
-
-- [Open the evidence ledger and claim methodology](PUBLIC-WORK-LEDGER.md)
+- [Detailed public sources](PUBLIC-WORK-LEDGER.md)
 - [Evaluate Neura](https://www.neurarelay.com/organizations)
 - [Build with Neura](https://www.neurarelay.com/builders)
 - [Explore the Relay Action Card](https://github.com/neurarelay/relay-action-card)
 
-## Claim scope
+## What these sources show
 
-The linked sources document public technical work and public discussion. They do not establish employment, endorsement, partnership, customer status, adoption, integration, commercial commitment, or Neura usage by any named organization.
+The linked material records public technical work, peer exchange, and implementation discussion. It does not by itself establish employment, endorsement, partnership, customer status, adoption, integration, commercial commitment, or Neura usage by any named organization.

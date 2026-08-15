@@ -1,12 +1,12 @@
-# Public work evidence ledger
+# Detailed public sources
 
 Updated: August 15, 2026
 
-This ledger provides the wider public record behind the selected acknowledgement index. Each entry identifies the source role and evidence class so readers can distinguish direct acknowledgement, implementation influence, and field insight.
+These source records expand the public work index. Each entry identifies the context of the public exchange so readers can distinguish direct acknowledgement, technical follow-through, and category context.
 
-## Direct acknowledgement and requested review
+## Direct acknowledgements and review requests
 
-| Public ecosystem | Evidence | Source role | Direct source |
+| Public ecosystem | Public record | Source context | Direct source |
 | --- | --- | --- | --- |
 | AG2 | Roman's contribution is described as having fundamentally shaped the evidence model | AG2 contributor | [Open acknowledgement](https://github.com/ag2ai/ag2/issues/2942#issuecomment-4691101475) |
 | AG2 | Roman is invited to consider an advisor role after his input directly shaped architecture | AG2 contributor | [Open invitation](https://github.com/ag2ai/ag2/issues/2967#issuecomment-4697926031) |
@@ -18,9 +18,9 @@ This ledger provides the wider public record behind the selected acknowledgement
 | Microsoft Semantic Kernel | Roman's argument is attributed to a defined refinement; the source preserves the non-merge boundary | Independent contributor in a Microsoft-owned repository | [Open attribution and boundary](https://github.com/microsoft/semantic-kernel/pull/14199#issuecomment-5208770978) |
 | Coinbase AgentKit | Reviewer feedback, including Roman's, is reported as addressed in implementation and tests | Independent contributor in a Coinbase-owned repository | [Open implementation response](https://github.com/coinbase/agentkit/pull/1349#issuecomment-4842245422) |
 
-## Implementation influence
+## Technical follow-through
 
-| Public ecosystem | Evidence | Source role | Direct source |
+| Public ecosystem | Public record | Source context | Direct source |
 | --- | --- | --- | --- |
 | Microsoft Semantic Kernel | A concrete authorization-filter implementation follows the public discussion | Independent contributor in a Microsoft-owned repository | [Open implementation note](https://github.com/microsoft/semantic-kernel/issues/14072#issuecomment-5089055345) |
 | Anthropic Cookbooks | A public pull request records digest binding, single-use approval, replay resistance, expiry outcomes, and execution receipts | Community pull request in an Anthropic-owned repository | [Open pull request](https://github.com/anthropics/claude-cookbooks/pull/803) |
@@ -31,9 +31,9 @@ This ledger provides the wider public record behind the selected acknowledgement
 | Anthropic Claude Code | Roman's response-channel framing is used as the basis for controlled-test observations | Independent participant in an Anthropic-owned repository | [Open response](https://github.com/anthropics/claude-code/issues/72704#issuecomment-4881444379) |
 | NVIDIA Guardrails | The admission-record field model is attributed to Roman's sketch | Independent participant in an NVIDIA-owned repository | [Open field-model response](https://github.com/NVIDIA-NeMo/Guardrails/issues/2001#issuecomment-4793860713) |
 
-## Field insight
+## Category context
 
-| Public ecosystem | Field insight | Direct source |
+| Public ecosystem | Public record | Direct source |
 | --- | --- | --- |
 | NVIDIA NeMo | Invocation-scoped execution boundary | [Open response](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2060#issuecomment-4685631975) |
 | Anthropic Cookbooks | Executor-side approval conditions and their operational consequences | [Open field report](https://github.com/anthropics/claude-cookbooks/issues/701#issuecomment-5153477701) |
@@ -41,10 +41,6 @@ This ledger provides the wider public record behind the selected acknowledgement
 | OpenAI Codex | Delegated-MCP authority boundary | [Open contribution](https://github.com/openai/codex/issues/31565#issuecomment-4914488960) |
 | NVIDIA OpenShell | Protocol-profile authority and no-effect outcomes | [Open contribution](https://github.com/NVIDIA/OpenShell/issues/2174#issuecomment-4914701759) |
 
-## Volume methodology
+## What these sources show
 
-[Open the dated metric definitions, source-packet requirements, and release gate](PUBLIC-WORK-METRICS.md)
-
-## Claim scope
-
-The sources document public technical work and public discussion. They do not establish employment, endorsement, partnership, customer status, adoption, integration, commercial commitment, or Neura usage by any named organization.
+The sources record public technical work and public discussion. They do not establish employment, endorsement, partnership, customer status, adoption, integration, commercial commitment, or Neura usage by any named organization.
