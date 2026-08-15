@@ -1,6 +1,6 @@
 # Selected public work
 
-Updated: August 3, 2026
+Updated: August 15, 2026
 
 This index links public GitHub evidence of technical review, counterpart exchange, explicit attribution, and downstream implementation movement around consequential-action authority, agent-runtime approvals, MCP enforcement, replay resistance, and terminal evidence.
 
@@ -82,6 +82,20 @@ This does not claim Coinbase maintainer acceptance, merge, security validation, 
 - A later contributor supplied [an implementation data point using the same separation](https://github.com/vercel/ai/issues/13215#issuecomment-4912787884).
 
 This does not claim a Vercel response, alignment, implementation, adoption, partnership, integration, official validation, or Neura usage.
+
+### Construct
+
+**Evidence type:** explicit peer recognition following deep public code review.
+
+#### Construct review request
+
+A Construct collaborator requested an expert follow-on review and wrote that [Roman “know[s] that code better than anyone right now”](https://github.com/construct-worlds/construct/pull/1199#issuecomment-5174411416).
+
+#### Construct acknowledgement
+
+The same collaborator later wrote that [Roman’s counter-evidence was useful and that he was right](https://github.com/construct-worlds/construct/pull/1199#issuecomment-5179524206).
+
+These records document public peer recognition and technical review dialogue; the original source conversations provide the full context.
 
 ## Conversion path
 
